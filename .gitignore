@@ -1,0 +1,13 @@
+*.log
+junk*.txt
+build/
+bin/
+out/
+.project
+.classpath
+.settings/
+*.iml
+*.prj
+*.ipj
+idea/
+target/
