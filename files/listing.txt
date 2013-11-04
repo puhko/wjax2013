@@ -5,7 +5,7 @@ drwx------+  52 tlberglund  staff       1768 Sep 14 22:34 Documents
 drwx------+  51 tlberglund  staff       1734 Nov  3 20:01 Downloads
 drwx------@  33 tlberglund  staff       1122 Nov  2 05:33 Dropbox
 drwx------@  64 tlberglund  staff       2176 Oct 28 05:01 Library
-drwx------+  28 tlberglund  staff        952 Nov  1 20:07 Movies
+drwx------+  28 tlberglund  staff        952 Nov  1 20:07 Films (mostly Breaking Bad episodes, actually)
 drwx------+   9 tlberglund  staff        306 Sep 26  2012 Music
 drwx------   53 tlberglund  staff       1802 Jul 26  2012 New Personal Documents
 drwx------+  58 tlberglund  staff       1972 Nov  1 17:37 Pictures
@@ -13,7 +13,6 @@ drwxr-xr-x+   5 tlberglund  staff        170 Jul 25  2012 Public
 drwxr-xr-x   67 tlberglund  staff       2278 Oct 31 15:59 Stolen Software
 drwxr-xr-x+   3 tlberglund  staff        102 Mar 17  2013 Sites
 drwxr-xr-x   12 tlberglund  staff        408 Dec  2  2012 Tools
-drwxr-xr-x    3 root        wheel        102 Oct 26 03:54 Xcode.app
 drwxr-xr-x  135 tlberglund  staff       4590 Oct 11 21:12 code
 drwxr-xr-x    3 tlberglund  staff        102 Aug 10  2012 eclipse-workspace
 drwxr-xr-x   45 tlberglund  staff       1530 Oct 30 20:26 github
